@@ -1,4 +1,4 @@
- import smtplib 
+import smtplib 
 s = smtplib.SMTP('smtp.gmail.com', 587)  
 s.starttls() 
 s.login("sumityadav25199@gmail.com", "ssssyadav") 
